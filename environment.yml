@@ -1,0 +1,14 @@
+name: test1
+channels:
+  - defaults
+dependencies:
+  - python=3.10
+  - anaconda
+  - pip=21.2.4
+  #- ffmpeg
+  - pip:
+  #works for regular pip packages
+    - flask
+
+
+  

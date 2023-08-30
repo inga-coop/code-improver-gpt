@@ -1,0 +1,15 @@
+{
+  "name": "code_improver",
+  "version": "1.0.0",
+  "description": "improve code using chatgpt",
+  "main": "app.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "node-fetch": "^3.3.0",
+    "require": "^0.4.4"
+  }
+}
